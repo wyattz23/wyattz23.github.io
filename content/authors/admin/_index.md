@@ -6,8 +6,8 @@ title: Xiang Zhang
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Juntai
-last_name: Cao
+first_name: Xiang
+last_name: Zhang
 
 # Status emoji
 status:
@@ -31,12 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jtcao7@cs.ubc.ca'
+    url: 'mailto:xzhang23@ualberta.ca'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: brands/github
-    url: https://github.com/juntaic7
+    url: https://github.com/wyattz23
   - icon: brands/x
     url: https://x.com/CinThaZVII
   - icon: brands/linkedin
