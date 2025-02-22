@@ -25,7 +25,7 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "15"
+        - statistic: "20"
           description: |
             Publications
         - statistic: "100+"
