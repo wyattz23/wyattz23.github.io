@@ -25,7 +25,7 @@ role: Master Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of British Columbia
-    url: https://nlp.cs.ubc.ca
+    url: https://www.cs.ubc.ca/news/2025/02/primenovo-redefining-protein-sequencing-revolutionary-precision
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,13 +34,13 @@ profiles:
     url: 'mailto:xzhang23@ualberta.ca'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.ca/citations?user=rHLK5ggAAAAJ&hl=en
   - icon: brands/github
     url: https://github.com/wyattz23
-  - icon: brands/x
-    url: https://x.com/CinThaZVII
+  # - icon: brands/x
+  #   url: https://x.com/CinThaZVII
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/juntai-george-cao-25276016a/
+    url: https://www.linkedin.com/in/wyatt-zhang-4b0b31202/
 
 
   # - icon: academicons/orcid
@@ -52,18 +52,18 @@ education:
   - area: Master of Science in Computer Science
     institution: University of British Columbia
     date_start: 2023-09-01
-    date_end: 
+    date_end: 2025-0
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      I am researching on computability of Transformer architecture and efficient long context processing with new attention design. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Bachelor of Computer Science
-    institution: University of British Columbia
-    date_start: 2020-09-01
-    date_end: 2023-05-30
+    institution: University of Alberta
+    date_start: 2019-09-01
+    date_end: 2023-06-14
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.98/4.0
   - area: Bachelor of Applied Science in Materials Engineering
     institution: Chongqing University & University of British Columbia
     date_start: 2016-09-01
