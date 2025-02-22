@@ -16,7 +16,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: iStock-962362664.jpg
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
           filters:
             brightness: 0.7
           size: cover
