@@ -45,9 +45,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+       I research AI4Science and LLM -v-. 
     design:
       columns: '1'
   - block: collection
