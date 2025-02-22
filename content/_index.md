@@ -18,7 +18,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: iStock-1453719521.jpg
           filters:
-            brightness: 0.7
+            brightness: 0.8
           size: cover
           position: center
           parallax: false

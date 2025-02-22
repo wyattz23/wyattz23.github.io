@@ -52,7 +52,7 @@ education:
   - area: Master of Science in Computer Science
     institution: University of British Columbia
     date_start: 2023-09-01
-    date_end: 2025-0
+    date_end: 2025-06-01
     summary: |
       I am researching on computability of Transformer architecture and efficient long context processing with new attention design. 
     button:
