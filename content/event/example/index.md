@@ -3,7 +3,7 @@ abstract: A deep insight into DeepSeek R1 model design, which goes beyond paper 
 address:
   city: Shanghai
   country: China
-  postcode: 
+  postcode: ""
   region: Shanghai
   street: Xuhui
 all_day: false
@@ -11,7 +11,7 @@ authors: []
 date: "2025-02-14T13:00:00Z"
 date_end: "20325-02-14T15:00:00Z"
 event: Journal Club
-event_url: 
+event_url: ""
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
