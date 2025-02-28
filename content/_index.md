@@ -31,7 +31,7 @@ sections:
         - statistic: "100+"
           description: |
             Citations
-        - statistic: "5"
+        - statistic: "6"
           description: |
             h-index
     design:
@@ -45,7 +45,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-       I research AI4Science and LLM -v-. 
+       I research in AI4Science and LLM -v-. 
     design:
       columns: '1'
   - block: collection

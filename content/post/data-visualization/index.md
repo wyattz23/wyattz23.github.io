@@ -1,5 +1,5 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
+title: 📈 Template
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2023-10-26
 tags:
