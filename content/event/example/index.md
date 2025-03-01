@@ -26,7 +26,7 @@ title: Example Talk
 url_code: ""
 url_pdf: ""
 url_slides: "https://slideshare.net"
-url_video: ""
+url_video: "https://drive.google.com/file/d/1YLrV6BfcGY_8h7ElLNJueTcc6crruS-T/preview"
 ---
 
 {{% callout note %}}
@@ -35,8 +35,14 @@ Click on the **Slides** button above to view the built-in slides feature.
 
 Slides can be added in a few ways:
 
-- **Create** slides using Wowchmey's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+## Embedded Video
+
+You can watch the video directly below:
+
+<iframe src="https://drive.google.com/file/d/1YLrV6BfcGY_8h7ElLNJueTcc6crruS-T/preview" width="640" height="480" allow="autoplay"></iframe>
 
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
