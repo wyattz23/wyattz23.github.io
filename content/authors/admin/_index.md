@@ -114,24 +114,28 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Skateboarding
         description: ''
-        percent: 60
+        percent: 77
         icon: person-simple-walk
-      - name: Cats
+      - name: Gym-rat
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Quant Trading
         description: ''
-        percent: 80
+        percent: 66
         icon: camera
 
 languages:
   - name: English
-    percent: 
+    percent: 95
   - name: Chinese
-    percent: 
+    percent: 95
+  - name: French
+    percent: 3
+  - name: Japanese
+    percent: 2
 
 # Awards.
 #   Add/remove as many awards below as you like.
