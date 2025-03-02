@@ -5,6 +5,20 @@ authors:
 - Tianze Ling
 - Zhi Jin
 - Sheng Xu
+- Zhiqiang Gao
+- Boyan Sun
+- Zijie Qiu
+- Jiaqi Wei
+- Nanqing Dong
+- Guangshuai Wang
+- Guibin Wang
+- Leyuan Li
+- Muhammad Abdul-Mageed
+- Laks V. S. Lakshmanan
+- Fuchu He
+- Wanli Ouyang
+- Cheng Chang 
+- Siqi Sun
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -22,8 +36,8 @@ publishDate: "2025-01-02T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Communications 16, No. 267"
-publication_short: "Nature Communications 2025"
+publication: "*Nature Communications* 16, No. 267"
+publication_short: "*Nature Communications* (2025)"
 
 abstract: Peptide sequencing via tandem mass spectrometry (MS/MS) is essential in proteomics. Unlike traditional database searches, deep learning excels at de novo peptide sequencing, even for peptides missing from existing databases. Current deep learning models often rely on autoregressive generation, which suffers from error accumulation and slow inference speeds. In this work, we introduce π-PrimeNovo, a non-autoregressive Transformer-based model for peptide sequencing. With our architecture design and a CUDA-enhanced decoding module for precise mass control, π-PrimeNovo achieves significantly higher accuracy and up to 89x faster inference than state-of-the-art methods, making it ideal for large-scale applications like metaproteomics. Additionally, it excels in phosphopeptide mining and detecting low-abundance post-translational modifications (PTMs), marking a substantial advance in peptide sequencing with broad potential in biological research.
 
