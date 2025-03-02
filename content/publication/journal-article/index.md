@@ -53,12 +53,12 @@ featured: false
 #   url: ""
 url_pdf: https://www.nature.com/articles/s41467-024-55021-3
 url_code: 'https://github.com/PHOENIXcenter/pi-PrimeNovo'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
