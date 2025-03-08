@@ -30,6 +30,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: brands/instagram
+    url: https://www.instagram.com/wyattflyyyy/
   - icon: at-symbol
     url: 'mailto:xzhang23@ualberta.ca'
     label: E-mail Me
