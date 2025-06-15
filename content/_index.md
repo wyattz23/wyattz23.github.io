@@ -31,7 +31,7 @@ sections:
         - statistic: "200+"
           description: |
             Citations
-        - statistic: "7"
+        - statistic: "8"
           description: |
             h-index
     design:
