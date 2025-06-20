@@ -66,11 +66,14 @@ education:
     date_end: 2023-06-14
     summary: |
       GPA: 3.98/4.0
-  - area: Bachelor of Applied Science in Materials Engineering
-    institution: Chongqing University & University of British Columbia
-    date_start: 2016-09-01
-    date_end: 2020-05-30
+      Graduated 4 years degree in 2.5 years, with distinction.
+  - area: Bachelor of Science in Statistics 
+    institution: University of Alberta
+    date_start: 2023-09-01
+    date_end: 2024-06-14
     summary: |
+      GPA: 3.96/4.0
+      Graduated second degree in one year, with distinction
 work:
   - position: Research Scientist Intern
     company_name: PatSnap
