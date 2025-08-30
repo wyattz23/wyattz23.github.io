@@ -16,15 +16,37 @@ banner:
 ## 2024
 
 <div class="publication-entry">
-  <div class="conference-box">ICLR</div>
+  <div class="conference-box">BioRxiv</div>
   <div class="publication-content">
-    <div class="title">A character-level length-control algorithm for non-autoregressive sentence summarization</div>
-    <div class="authors">Puyuan Liu, <strong>Xiang Zhang</strong>, Lili Mou</div>
-    <div class="venue">International Conference on Learning Representations (ICLR), 2024</div>
+    <div class="title">ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing</div>
+    <div class="authors">Zhi Jin*, Sheng Xu*, <strong>Xiang Zhang</strong>*, Tianze Ling, Nanqing Dong, Wanli Ouyang, Zhiqiang Gao, Cheng Chang, Siqi Sun</div>
+    <div class="venue">BioRxiv, 2024</div>
     <div class="links">
-      <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/bb0f9af6a4881ccb6e14c11b8b4be710-Paper-Conference.pdf">PDF</a> | 
-      <a href="https://github.com/MANGA-UOFA/NACC">Code</a> | 
-      <a href="https://neurips.cc/media/neurips-2022/Slides/53964.pdf">Slides</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:9yKSN-GCB0IC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">Cross-Modal Consistency in Multimodal Large Language Models</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Senyu Li*, Ning Shi, Bradley Hauer, Zijun Wu, Grzegorz Kondrak, Muhammad Abdul-Mageed, Laks VS Lakshmanan</div>
+    <div class="venue">ArXiv, 2024</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:WF5omc3nYNoC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">Autoregressive + Chain of Thought = Recurrent: Recurrence's Role in Language Models' Computability and a Revisit of Recurrent Transformer</div>
+    <div class="authors"><strong>Xiang Zhang</strong>, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan</div>
+    <div class="venue">ArXiv, 2024</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:W7OEmFMy1HYC">PDF</a>
     </div>
   </div>
 </div>
@@ -32,27 +54,37 @@ banner:
 ## 2023
 
 <div class="publication-entry">
-  <div class="conference-box">NeurIPS</div>
+  <div class="conference-box">ACL</div>
   <div class="publication-content">
-    <div class="title">Non-autoregressive translation with layer-wise prediction and deep supervision</div>
-    <div class="authors"><strong>Xiang Zhang</strong>, Hao Zhou, Osmar Zaïane, Lili Mou, Lei Li</div>
-    <div class="venue">Advances in Neural Information Processing Systems (NeurIPS), 2023</div>
+    <div class="title">Don't trust ChatGPT when your question is not in English: a study of multilingual abilities and types of LLMs</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Senyu Li*, Bradley Hauer, Ning Shi, Grzegorz Kondrak</div>
+    <div class="venue">Association for Computational Linguistics (ACL), 2023</div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2110.07515.pdf">PDF</a> | 
-      <a href="https://github.com/chenyangh/DSLP">Code</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:QIV2ME_5wuYC">PDF</a>
     </div>
   </div>
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">NAACL</div>
+  <div class="conference-box">ArXiv</div>
   <div class="publication-content">
-    <div class="title">Seq2Emo: A sequence to multi-label emotion classification model</div>
-    <div class="authors"><strong>Xiang Zhang</strong>, Amine Trabelsi, Xuebin Qin, Nawshad Farruque, Lili Mou, Osmar Zaïane</div>
-    <div class="venue">North American Chapter of the Association for Computational Linguistics (NAACL), 2023</div>
+    <div class="title">TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models</div>
+    <div class="authors">Yuwei Yin, Jean Kaddour, <strong>Xiang Zhang</strong>, Yixin Nie, Zhenguang Liu, Lingpeng Kong, Qi Liu</div>
+    <div class="venue">ArXiv, 2023</div>
     <div class="links">
-      <a href="https://aclanthology.org/2021.naacl-main.375">PDF</a> | 
-      <a href="https://github.com/chenyangh/Seq2Emo">Code</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:IjCSPb-OGe4C">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">Bridging the Gap Between BabelNet and HowNet: Unsupervised Sense Alignment and Sememe Prediction</div>
+    <div class="authors"><strong>Xiang Zhang</strong>, Ning Shi, Bradley Hauer, Grzegorz Kondrak</div>
+    <div class="venue">ArXiv, 2023</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:UeHWp8X0CEIC">PDF</a>
     </div>
   </div>
 </div>
@@ -60,27 +92,25 @@ banner:
 ## 2022
 
 <div class="publication-entry">
-  <div class="conference-box">ACL</div>
+  <div class="conference-box">NeurIPS</div>
   <div class="publication-content">
-    <div class="title">Learning non-autoregressive models from search for unsupervised sentence summarization</div>
+    <div class="title">A character-level length-control algorithm for non-autoregressive sentence summarization</div>
     <div class="authors">Puyuan Liu, <strong>Xiang Zhang</strong>, Lili Mou</div>
-    <div class="venue">Association for Computational Linguistics (ACL), 2022</div>
+    <div class="venue">Advances in Neural Information Processing Systems (NeurIPS), 2022</div>
     <div class="links">
-      <a href="https://openreview.net/forum?id=UNzc8gReN7m">PDF</a> | 
-      <a href="https://github.com/MANGA-UOFA/NAUS">Code</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:d1gkVwhDpl0C">PDF</a>
     </div>
   </div>
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">CIKM</div>
+  <div class="conference-box">ArXiv</div>
   <div class="publication-content">
-    <div class="title">Simulated annealing for emotional dialogue systems</div>
-    <div class="authors">Chengzhang Dong, <strong>Xiang Zhang</strong>, Osmar Zaïane, Lili Mou</div>
-    <div class="venue">International Conference on Information and Knowledge Management (CIKM), 2022</div>
+    <div class="title">Improving HowNet-Based Chinese Word Sense Disambiguation with Translations</div>
+    <div class="authors"><strong>Xiang Zhang</strong>, Bradley Hauer, Grzegorz Kondrak</div>
+    <div class="venue">ArXiv, 2022</div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2109.10715">PDF</a> | 
-      <a href="https://github.com/Dio990521/SAEDS">Code</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:Tyk-4Ss8FVUC">PDF</a>
     </div>
   </div>
 </div>
@@ -88,27 +118,13 @@ banner:
 ## 2021
 
 <div class="publication-entry">
-  <div class="conference-box">ACL</div>
+  <div class="conference-box">ArXiv</div>
   <div class="publication-content">
-    <div class="title">Optimizing deeper transformers on small datasets</div>
-    <div class="authors">Peng Xu, Dhruv Kumar, Wei Yang, Wenjie Zi, Keyi Tang, <strong>Xiang Zhang</strong>, Jackie Chi Kit Cheung, Simon JD Prince, Yanshuai Cao</div>
-    <div class="venue">Association for Computational Linguistics (ACL), 2021</div>
+    <div class="title">Counting ability of large language models and impact of tokenization</div>
+    <div class="authors"><strong>Xiang Zhang</strong>, Juntai Cao, Chenyu You</div>
+    <div class="venue">ArXiv, 2021</div>
     <div class="links">
-      <a href="https://aclanthology.org/2021.acl-long.163">PDF</a> | 
-      <a href="https://github.com/BorealisAI/DT-Fixup">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box">CVPR</div>
-  <div class="publication-content">
-    <div class="title">Boundary-aware salient object detection</div>
-    <div class="authors">Xuebin Qin, Zichen Zhang, <strong>Xiang Zhang</strong>, Chao Gao, Masood Dehghan, Martin Jagersand</div>
-    <div class="venue">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021</div>
-    <div class="links">
-      <a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.html">PDF</a> | 
-      <a href="https://github.com/xuebinqin/BASNet">Code</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:ZeXyd9-uunAC">PDF</a>
     </div>
   </div>
 </div>
@@ -116,27 +132,25 @@ banner:
 ## 2020
 
 <div class="publication-entry">
-  <div class="conference-box">SemEval</div>
+  <div class="conference-box">ArXiv</div>
   <div class="publication-content">
-    <div class="title">ANA at SemEval-2020 Task 4: Multi-task learning for commonsense reasoning (UNION)</div>
-    <div class="authors">Anandh Konar, <strong>Xiang Zhang</strong>, Amine Trabelsi, Osmar Zaïane</div>
-    <div class="venue">International Workshop on Semantic Evaluation (SemEval), 2020</div>
+    <div class="title">PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs</div>
+    <div class="authors">Zhilin Zhang*, <strong>Xiang Zhang</strong>*, Jiaqi Wei, Yiwei Xu, Chenyu You</div>
+    <div class="venue">ArXiv, 2020</div>
     <div class="links">
-      <a href="https://aclanthology.org/2020.semeval-1.45/">PDF</a> | 
-      <a href="https://github.com/anandhperumal/ANA-at-SemEval-2020-Task-4-UNION">Code</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:hC7cP41nSMkC">PDF</a>
     </div>
   </div>
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">PR</div>
+  <div class="conference-box">ArXiv</div>
   <div class="publication-content">
-    <div class="title">U²-Net: Going deeper with nested U-structure for salient object detection</div>
-    <div class="authors">Xuebin Qin, Zichen Zhang, <strong>Xiang Zhang</strong>, Masood Dehghan, Osmar Zaïane, Martin Jagersand</div>
-    <div class="venue">Pattern Recognition, 2020</div>
+    <div class="title">From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery</div>
+    <div class="authors">Jiaqi Wei*, Yuejin Yang*, <strong>Xiang Zhang</strong>*, Yuhan Chen*, Xiang Zhuang*, Zhangyang Gao*, Dongzhan Zhou, Guangshuai Wang, Zhiqiang Gao, Juntai Cao, Zijie Qiu, Xuming He, Qiang Zhang, Chenyu You, Shuangjia Zheng, Ning Ding, Wanli Ouyang, Nanqing Dong, Yu Cheng, Siqi Sun, Lei Bai, Bowen Zhou</div>
+    <div class="venue">ArXiv, 2020</div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2005.09007">PDF</a> | 
-      <a href="https://github.com/NathanUA/U-2-Net">Code</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:IWHjjKOFINEC">PDF</a>
     </div>
   </div>
 </div>
@@ -144,42 +158,13 @@ banner:
 ## 2019
 
 <div class="publication-entry">
-  <div class="conference-box">CVPR</div>
+  <div class="conference-box">Journal</div>
   <div class="publication-content">
-    <div class="title">BASNet: Boundary-aware salient object detection</div>
-    <div class="authors">Xuebin Qin, Zichen Zhang, <strong>Xiang Zhang</strong>, Chao Gao, Masood Dehghan, Martin Jagersand</div>
-    <div class="venue">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019</div>
+    <div class="title">Multiprocessor scheduling with testing: improved online algorithms and numerical experiments</div>
+    <div class="authors">Mingyang Gong, Jing Fan, Guohui Lin, Bing Su, Zihan Su, <strong>Xiang Zhang</strong></div>
+    <div class="venue">Journal of Scheduling, 2019</div>
     <div class="links">
-      <a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.html">PDF</a> | 
-      <a href="https://github.com/xuebinqin/BASNet">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box">SemEval</div>
-  <div class="publication-content">
-    <div class="title">ANA at SemEval-2019 Task 3: Contextual emotion detection in conversations through hierarchical LSTMs and BERT</div>
-    <div class="authors"><strong>Xiang Zhang</strong>, Amine Trabelsi, Osmar Zaïane</div>
-    <div class="venue">International Workshop on Semantic Evaluation (SemEval), 2019</div>
-    <div class="links">
-      <a href="https://aclanthology.org/S19-2003/">PDF</a> | 
-      <a href="https://github.com/chenyangh/SemEval2019Task3">Code</a>
-    </div>
-  </div>
-</div>
-
-## 2018
-
-<div class="publication-entry">
-  <div class="conference-box">NAACL</div>
-  <div class="publication-content">
-    <div class="title">Automatic dialogue generation with expressed emotions</div>
-    <div class="authors"><strong>Xiang Zhang</strong>, Osmar Zaïane, Amine Trabelsi, Nouha Dziri</div>
-    <div class="venue">North American Chapter of the Association for Computational Linguistics (NAACL), 2018</div>
-    <div class="links">
-      <a href="https://aclanthology.org/N18-1001/">PDF</a> | 
-      <a href="https://github.com/chenyangh/DialogueGenerationWithEmotion">Code</a>
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:7PzlFSSx8tAC">PDF</a>
     </div>
   </div>
 </div>
