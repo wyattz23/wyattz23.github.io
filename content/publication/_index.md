@@ -99,9 +99,9 @@ banner:
 
 <style>
 .publications {
-  max-width: 1000px;
+  max-width: 1400px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 20px 40px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -118,54 +118,56 @@ banner:
 .publication-entry {
   display: flex;
   margin-bottom: 30px;
-  padding: 20px;
+  padding: 25px 30px;
   background-color: #f8f9fa;
   border-radius: 8px;
   border-left: 4px solid #007acc;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  width: 100%;
 }
 
 .conference-box {
   background-color: #007acc;
   color: white;
-  padding: 8px 16px;
+  padding: 10px 18px;
   border-radius: 6px;
   font-weight: 600;
   font-size: 0.9em;
   text-align: center;
-  min-width: 80px;
+  min-width: 90px;
   height: fit-content;
-  margin-right: 20px;
+  margin-right: 25px;
   flex-shrink: 0;
 }
 
 .publication-content {
   flex: 1;
+  min-width: 0;
 }
 
 .publication-content .title {
-  font-size: 1.1em;
+  font-size: 1.15em;
   font-weight: 600;
   color: #333;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   line-height: 1.4;
 }
 
 .publication-content .authors {
   color: #555;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
   font-size: 0.95em;
 }
 
 .publication-content .venue {
   color: #666;
   font-style: italic;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   font-size: 0.9em;
 }
 
 .publication-content .links {
-  margin-top: 8px;
+  margin-top: 10px;
 }
 
 .publication-content .links a {
@@ -185,9 +187,22 @@ banner:
   font-weight: 600;
 }
 
+@media (max-width: 1200px) {
+  .publications {
+    max-width: 1200px;
+    padding: 20px 30px;
+  }
+}
+
 @media (max-width: 768px) {
+  .publications {
+    max-width: 100%;
+    padding: 20px;
+  }
+  
   .publication-entry {
     flex-direction: column;
+    padding: 20px;
   }
   
   .conference-box {
