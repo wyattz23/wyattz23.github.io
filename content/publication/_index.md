@@ -169,6 +169,104 @@ banner:
   </div>
 </div>
 
+## Preprints & Working Papers
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Juntai Cao*, Jiaqi Wei, Chenyu You, Dujian Ding</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:KlAtU1dfN6UC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">π-PrimeNovo: an accurate and efficient non-autoregressive deep learning model for de novo peptide sequencing</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Tianze Ling*, Zhi Jin*, Sheng Xu*, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, Nanqing Dong, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks VS Lakshmanan, Fuchu He, Wanli Ouyang, Cheng Chang, Siqi Sun</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:ufrVoPGSRksC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">AlignRAG: Leveraging Critique Learning for Evidence-Sensitive Retrieval-Augmented Reasoning</div>
+    <div class="authors">Jiaqi Wei, Hao Zhou, <strong>Xiang Zhang</strong>, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:4DMP91E08xMC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">Multi2: Multi-Agent Test-Time Scalable Framework for Multi-Document Processing</div>
+    <div class="authors">Juntai Cao*, <strong>Xiang Zhang</strong>*, Raymond Li, Chuyuan Li, Shafiq Joty, Giuseppe Carenini</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:_FxGoFyzp5QC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing</div>
+    <div class="authors">Zijie Qiu*, Jiaqi Wei*, <strong>Xiang Zhang</strong>*, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:MXK_kJrjxJIC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Juntai Cao*, Jiaqi Wei, Yiwei Xu, Chenyu You</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:_kc_bZDykSQC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Jiaqi Wei*, Zijie Qiu*, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:ULOm3_A8WrAC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing</div>
+    <div class="authors">A Jun*, <strong>Xiang Zhang</strong>*, Xiaofan Zhang*, Jiaqi Wei*, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:qxL8FJ1GzNcC">PDF</a>
+    </div>
+  </div>
+</div>
+
 </div>
 
 <style>
