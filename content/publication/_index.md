@@ -106,38 +106,45 @@ banner:
 }
 
 .publications h2 {
-  color: #333;
-  border-bottom: 2px solid #007acc;
-  padding-bottom: 10px;
-  margin-top: 40px;
-  margin-bottom: 25px;
-  font-size: 1.8em;
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 8px;
+  margin-top: 35px;
+  margin-bottom: 20px;
+  font-size: 1.5em;
   font-weight: 600;
 }
 
 .publication-entry {
   display: flex;
-  margin-bottom: 30px;
-  padding: 25px 30px;
-  background-color: #f8f9fa;
-  border-radius: 8px;
-  border-left: 4px solid #007acc;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+  padding: 18px 22px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  border-left: 3px solid #3498db;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
   width: 100%;
+  transition: all 0.2s ease;
+}
+
+.publication-entry:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  transform: translateY(-1px);
 }
 
 .conference-box {
-  background-color: #007acc;
+  background-color: #3498db;
   color: white;
-  padding: 10px 18px;
-  border-radius: 6px;
+  padding: 6px 12px;
+  border-radius: 4px;
   font-weight: 600;
-  font-size: 0.9em;
+  font-size: 0.75em;
   text-align: center;
-  min-width: 90px;
+  min-width: 70px;
   height: fit-content;
-  margin-right: 25px;
+  margin-right: 18px;
   flex-shrink: 0;
+  letter-spacing: 0.5px;
 }
 
 .publication-content {
@@ -146,44 +153,48 @@ banner:
 }
 
 .publication-content .title {
-  font-size: 1.15em;
+  font-size: 0.95em;
   font-weight: 600;
-  color: #333;
-  margin-bottom: 10px;
-  line-height: 1.4;
+  color: #2c3e50;
+  margin-bottom: 6px;
+  line-height: 1.3;
 }
 
 .publication-content .authors {
-  color: #555;
-  margin-bottom: 8px;
-  font-size: 0.95em;
+  color: #7f8c8d;
+  margin-bottom: 4px;
+  font-size: 0.8em;
+  line-height: 1.4;
 }
 
 .publication-content .venue {
-  color: #666;
+  color: #95a5a6;
   font-style: italic;
-  margin-bottom: 12px;
-  font-size: 0.9em;
+  margin-bottom: 8px;
+  font-size: 0.75em;
+  line-height: 1.3;
 }
 
 .publication-content .links {
-  margin-top: 10px;
+  margin-top: 6px;
 }
 
 .publication-content .links a {
-  color: #007acc;
+  color: #3498db;
   text-decoration: none;
-  margin-right: 15px;
+  margin-right: 12px;
   font-weight: 500;
-  font-size: 0.9em;
+  font-size: 0.75em;
+  transition: color 0.2s ease;
 }
 
 .publication-content .links a:hover {
+  color: #2980b9;
   text-decoration: underline;
 }
 
 .publications strong {
-  color: #333;
+  color: #2c3e50;
   font-weight: 600;
 }
 
@@ -202,11 +213,11 @@ banner:
   
   .publication-entry {
     flex-direction: column;
-    padding: 20px;
+    padding: 16px 18px;
   }
   
   .conference-box {
-    margin-bottom: 15px;
+    margin-bottom: 12px;
     margin-right: 0;
     align-self: flex-start;
   }
