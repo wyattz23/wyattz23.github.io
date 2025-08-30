@@ -13,6 +13,58 @@ banner:
 
 <div class="publications">
 
+## 2025
+
+<div class="publication-entry">
+  <div class="conference-box">JOSH</div>
+  <div class="publication-content">
+    <div class="title">Multiprocessor scheduling with testing: improved online algorithms and numerical experiments</div>
+    <div class="authors">Mingyang Gong, Jing Fan, Guohui Lin, Bing Su, Zihan Su, <strong>Xiang Zhang</strong></div>
+    <div class="venue">Journal of Scheduling, 2025</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:7PzlFSSx8tAC">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ICML</div>
+  <div class="publication-content">
+    <div class="title">Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Jiaqi Wei*, Zijie Qiu*, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:ULOm3_A8WrAC">PDF</a>
+    </div>
+  </div>
+</div>
+
+
+<div class="publication-entry">
+  <div class="conference-box">ICML</div>
+  <div class="publication-content">
+    <div class="title">Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing</div>
+    <div class="authors">Zijie Qiu*, Jiaqi Wei*, <strong>Xiang Zhang</strong>*, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:MXK_kJrjxJIC">PDF</a>
+    </div>
+  </div>
+</div>
+
+
+<div class="publication-entry">
+  <div class="conference-box">ArXiv</div>
+  <div class="publication-content">
+    <div class="title">MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing</div>
+    <div class="authors">A Jun*, <strong>Xiang Zhang</strong>*, Xiaofan Zhang*, Jiaqi Wei*, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo</div>
+    <div class="venue">ArXiv Preprint</div>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:qxL8FJ1GzNcC">PDF</a>
+    </div>
+  </div>
+</div>
+
 ## 2024
 
 <div class="publication-entry">
@@ -157,17 +209,6 @@ banner:
 
 ## 2019
 
-<div class="publication-entry">
-  <div class="conference-box">Journal</div>
-  <div class="publication-content">
-    <div class="title">Multiprocessor scheduling with testing: improved online algorithms and numerical experiments</div>
-    <div class="authors">Mingyang Gong, Jing Fan, Guohui Lin, Bing Su, Zihan Su, <strong>Xiang Zhang</strong></div>
-    <div class="venue">Journal of Scheduling, 2019</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:7PzlFSSx8tAC">PDF</a>
-    </div>
-  </div>
-</div>
 
 ## Preprints & Working Papers
 
@@ -219,17 +260,7 @@ banner:
   </div>
 </div>
 
-<div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing</div>
-    <div class="authors">Zijie Qiu*, Jiaqi Wei*, <strong>Xiang Zhang</strong>*, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun</div>
-    <div class="venue">ArXiv Preprint</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:MXK_kJrjxJIC">PDF</a>
-    </div>
-  </div>
-</div>
+
 
 <div class="publication-entry">
   <div class="conference-box">ArXiv</div>
@@ -243,29 +274,9 @@ banner:
   </div>
 </div>
 
-<div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing</div>
-    <div class="authors"><strong>Xiang Zhang</strong>*, Jiaqi Wei*, Zijie Qiu*, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
-    <div class="venue">ArXiv Preprint</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:ULOm3_A8WrAC">PDF</a>
-    </div>
-  </div>
-</div>
 
-<div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing</div>
-    <div class="authors">A Jun*, <strong>Xiang Zhang</strong>*, Xiaofan Zhang*, Jiaqi Wei*, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo</div>
-    <div class="venue">ArXiv Preprint</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:qxL8FJ1GzNcC">PDF</a>
-    </div>
-  </div>
-</div>
+
+
 
 </div>
 
