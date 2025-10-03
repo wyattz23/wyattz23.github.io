@@ -25,13 +25,13 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "30"
+        - statistic: "30+"
           description: |
             Publications
         - statistic: "300+"
           description: |
             Citations
-        - statistic: "9"
+        - statistic: "10"
           description: |
             h-index
     design:
