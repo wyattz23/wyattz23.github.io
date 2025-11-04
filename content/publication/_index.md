@@ -304,7 +304,6 @@ banner:
   padding: 18px 22px;
   background-color: #ffffff;
   border-radius: 6px;
-  border-left: 3px solid #3498db;
   box-shadow: 0 1px 3px rgba(0,0,0,0.08);
   width: 100%;
   transition: all 0.2s ease;
