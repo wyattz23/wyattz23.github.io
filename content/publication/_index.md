@@ -288,6 +288,14 @@ banner:
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
+/* Center the main Publications title */
+h1.page-title,
+.article-title,
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
 .publications h2 {
   color: #2c3e50;
   border-bottom: 2px solid #3498db;
@@ -296,6 +304,7 @@ banner:
   margin-bottom: 20px;
   font-size: 1.5em;
   font-weight: 600;
+  text-align: center;
 }
 
 .publication-entry {
