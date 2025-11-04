@@ -335,7 +335,7 @@ banner:
 }
 
 .publication-content .title {
-  font-size: 0.95em;
+  font-size: 0.665em;
   font-weight: 600;
   color: #2c3e50;
   margin-bottom: 6px;
@@ -345,7 +345,7 @@ banner:
 .publication-content .authors {
   color: #7f8c8d;
   margin-bottom: 4px;
-  font-size: 0.8em;
+  font-size: 0.56em;
   line-height: 1.4;
 }
 
