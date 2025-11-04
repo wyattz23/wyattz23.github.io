@@ -128,37 +128,25 @@ banner:
 ## 2023
 
 <div class="publication-entry">
-  <div class="conference-box acl">ACL</div>
+  <div class="conference-box emnlp">EMNLP</div>
   <div class="publication-content">
-    <div class="title">Don't trust ChatGPT when your question is not in English: a study of multilingual abilities and types of LLMs</div>
+    <div class="title">Don't Trust GPT When Your Question Is Not In English: A Study of Multilingual Abilities and Types of LLMs</div>
     <div class="authors"><strong>Xiang Zhang</strong>*, Senyu Li*, Bradley Hauer, Ning Shi, Grzegorz Kondrak</div>
-    <div class="venue">Association for Computational Linguistics (ACL), 2023</div>
+    <div class="venue">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:QIV2ME_5wuYC">PDF</a>
+      <a href="https://arxiv.org/pdf/2305.16339.pdf">PDF</a>
     </div>
   </div>
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box arxiv">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models</div>
-    <div class="authors">Yuwei Yin, Jean Kaddour, <strong>Xiang Zhang</strong>, Yixin Nie, Zhenguang Liu, Lingpeng Kong, Qi Liu</div>
-    <div class="venue">ArXiv, 2023</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:IjCSPb-OGe4C">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box arxiv">ArXiv</div>
+  <div class="conference-box eacl">EACL</div>
   <div class="publication-content">
     <div class="title">Bridging the Gap Between BabelNet and HowNet: Unsupervised Sense Alignment and Sememe Prediction</div>
     <div class="authors"><strong>Xiang Zhang</strong>, Ning Shi, Bradley Hauer, Grzegorz Kondrak</div>
-    <div class="venue">ArXiv, 2023</div>
+    <div class="venue">17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2023</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:UeHWp8X0CEIC">PDF</a>
+      <a href="https://aclanthology.org/2023.eacl-main.205/">PDF</a>
     </div>
   </div>
 </div>
@@ -331,6 +319,10 @@ h1 {
 
 .conference-box.aaai {
   background-color: #00BCD4; /* Cyan/Teal */
+}
+
+.conference-box.eacl {
+  background-color: #4CAF50; /* Green */
 }
 
 .publication-content {
