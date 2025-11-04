@@ -16,7 +16,7 @@ banner:
 ## 2025
 
 <div class="publication-entry">
-  <div class="conference-box">NeurIPS</div>
+  <div class="conference-box neurips">NeurIPS</div>
   <div class="publication-content">
     <div class="title">Bidirectional Representations Augmented Autoregressive Biological Sequence Generation</div>
     <div class="authors"><strong>Xiang Zhang</strong>*, Jiaqi Wei*, Zijie Qiu, Sheng Xu, Zhi Jin, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
@@ -28,7 +28,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">NeurIPS</div>
+  <div class="conference-box neurips">NeurIPS</div>
   <div class="publication-content">
     <div class="title">Retrieval is not Enough: Enhancing RAG Reasoning through Test-Time Critique and Optimization</div>
     <div class="authors">Jiaqi Wei*, Hao Zhou*, <strong>Xiang Zhang</strong>*, Zijie Qiu, Sheng Xu, Zhi Jin, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
@@ -40,7 +40,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ACL</div>
+  <div class="conference-box acl">ACL</div>
   <div class="publication-content">
     <div class="title">A Complexity Analysis of Prompt Search Space in LLMs</div>
     <div class="authors"><strong>Xiang Zhang</strong>*, Juntai Cao*, Jiaqi Wei, Chengyu You, Dujian Ding</div>
@@ -52,7 +52,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ICML</div>
+  <div class="conference-box icml">ICML</div>
   <div class="publication-content">
     <div class="title">Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Sequencing</div>
     <div class="authors"><strong>Xiang Zhang</strong>*, Jiaqi Wei*, Sheng Xu, Zijie Qiu, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
@@ -64,7 +64,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ICML</div>
+  <div class="conference-box icml">ICML</div>
   <div class="publication-content">
     <div class="title">Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing</div>
     <div class="authors">Zijie Qiu*, Jiaqi Wei*, <strong>Xiang Zhang</strong>*, Sheng Xu, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun</div>
@@ -76,7 +76,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">EMNLP</div>
+  <div class="conference-box emnlp">EMNLP</div>
   <div class="publication-content">
     <div class="title">Multi2: Multi-Agent Test-Time Scalable Framework for Multi-Document Processing</div>
     <div class="authors">Juntai Cao*, <strong>Xiang Zhang</strong>*, Raymond Li, Jiaqi Wei, Chuyuan Li, Shafiq Joty, Giuseppe Carenini</div>
@@ -88,7 +88,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">JOSH</div>
+  <div class="conference-box josh">JOSH</div>
   <div class="publication-content">
     <div class="title">Multiprocessor scheduling with testing: Improved approximation algorithms and numerical experiments</div>
     <div class="authors">Mingyang Gong*, Jing Fan*, Guohui Lin*, Bin Su*, Zihan Su*, <strong>Xiang Zhang</strong>*</div>
@@ -100,7 +100,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">NC</div>
+  <div class="conference-box nature">Nature Comms</div>
   <div class="publication-content">
     <div class="title">π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing</div>
     <div class="authors"><strong>Xiang Zhang</strong>*, Tianze Ling*, Zhi Jin*, Sheng Xu*, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Nanqing Dong, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang, Cheng Chang, Siqi Sun</div>
@@ -114,7 +114,7 @@ banner:
 ## 2024
 
 <div class="publication-entry">
-  <div class="conference-box">BioRxiv</div>
+  <div class="conference-box biorxiv">BioRxiv</div>
   <div class="publication-content">
     <div class="title">ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing</div>
     <div class="authors">Zhi Jin*, Sheng Xu*, <strong>Xiang Zhang</strong>*, Tianze Ling, Nanqing Dong, Wanli Ouyang, Zhiqiang Gao, Cheng Chang, Siqi Sun</div>
@@ -126,7 +126,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box arxiv">ArXiv</div>
   <div class="publication-content">
     <div class="title">Cross-Modal Consistency in Multimodal Large Language Models</div>
     <div class="authors"><strong>Xiang Zhang</strong>*, Senyu Li*, Ning Shi, Bradley Hauer, Zijun Wu, Grzegorz Kondrak, Muhammad Abdul-Mageed, Laks VS Lakshmanan</div>
@@ -138,7 +138,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box arxiv">ArXiv</div>
   <div class="publication-content">
     <div class="title">Autoregressive + Chain of Thought = Recurrent: Recurrence's Role in Language Models' Computability and a Revisit of Recurrent Transformer</div>
     <div class="authors"><strong>Xiang Zhang</strong>, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan</div>
@@ -152,7 +152,7 @@ banner:
 ## 2023
 
 <div class="publication-entry">
-  <div class="conference-box">ACL</div>
+  <div class="conference-box acl">ACL</div>
   <div class="publication-content">
     <div class="title">Don't trust ChatGPT when your question is not in English: a study of multilingual abilities and types of LLMs</div>
     <div class="authors"><strong>Xiang Zhang</strong>*, Senyu Li*, Bradley Hauer, Ning Shi, Grzegorz Kondrak</div>
@@ -164,7 +164,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box arxiv">ArXiv</div>
   <div class="publication-content">
     <div class="title">TTIDA: Controllable Generative Data Augmentation via Text-to-Text and Text-to-Image Models</div>
     <div class="authors">Yuwei Yin, Jean Kaddour, <strong>Xiang Zhang</strong>, Yixin Nie, Zhenguang Liu, Lingpeng Kong, Qi Liu</div>
@@ -176,7 +176,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box arxiv">ArXiv</div>
   <div class="publication-content">
     <div class="title">Bridging the Gap Between BabelNet and HowNet: Unsupervised Sense Alignment and Sememe Prediction</div>
     <div class="authors"><strong>Xiang Zhang</strong>, Ning Shi, Bradley Hauer, Grzegorz Kondrak</div>
@@ -190,7 +190,7 @@ banner:
 ## 2022
 
 <div class="publication-entry">
-  <div class="conference-box">NeurIPS</div>
+  <div class="conference-box neurips">NeurIPS</div>
   <div class="publication-content">
     <div class="title">A character-level length-control algorithm for non-autoregressive sentence summarization</div>
     <div class="authors">Puyuan Liu, <strong>Xiang Zhang</strong>, Lili Mou</div>
@@ -202,7 +202,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box arxiv">ArXiv</div>
   <div class="publication-content">
     <div class="title">Improving HowNet-Based Chinese Word Sense Disambiguation with Translations</div>
     <div class="authors"><strong>Xiang Zhang</strong>, Bradley Hauer, Grzegorz Kondrak</div>
@@ -216,7 +216,7 @@ banner:
 ## 2021
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box arxiv">ArXiv</div>
   <div class="publication-content">
     <div class="title">Counting ability of large language models and impact of tokenization</div>
     <div class="authors"><strong>Xiang Zhang</strong>, Juntai Cao, Chenyu You</div>
@@ -230,7 +230,7 @@ banner:
 ## 2020
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box arxiv">ArXiv</div>
   <div class="publication-content">
     <div class="title">PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs</div>
     <div class="authors">Zhilin Zhang*, <strong>Xiang Zhang</strong>*, Jiaqi Wei, Yiwei Xu, Chenyu You</div>
@@ -242,7 +242,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box arxiv">ArXiv</div>
   <div class="publication-content">
     <div class="title">From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery</div>
     <div class="authors">Jiaqi Wei*, Yuejin Yang*, <strong>Xiang Zhang</strong>*, Yuhan Chen*, Xiang Zhuang*, Zhangyang Gao*, Dongzhan Zhou, Guangshuai Wang, Zhiqiang Gao, Juntai Cao, Zijie Qiu, Xuming He, Qiang Zhang, Chenyu You, Shuangjia Zheng, Ning Ding, Wanli Ouyang, Nanqing Dong, Yu Cheng, Siqi Sun, Lei Bai, Bowen Zhou</div>
@@ -307,8 +307,6 @@ h1 {
 }
 
 .conference-box {
-  background-color: #3498db;
-  color: white;
   padding: 6px 12px;
   border-radius: 4px;
   font-weight: 600;
@@ -319,6 +317,40 @@ h1 {
   margin-right: 18px;
   flex-shrink: 0;
   letter-spacing: 0.5px;
+  color: white;
+}
+
+/* Venue-specific colors */
+.conference-box.neurips {
+  background-color: #4285F4; /* Google Blue */
+}
+
+.conference-box.acl {
+  background-color: #F4B400; /* Google Yellow */
+}
+
+.conference-box.icml {
+  background-color: #FF6B35; /* Orange */
+}
+
+.conference-box.emnlp {
+  background-color: #9C27B0; /* Purple */
+}
+
+.conference-box.nature {
+  background-color: #009639; /* Nature Green */
+}
+
+.conference-box.biorxiv {
+  background-color: #2E7D32; /* Dark Green */
+}
+
+.conference-box.josh {
+  background-color: #8D6E63; /* Brown */
+}
+
+.conference-box.arxiv {
+  background-color: #B23121; /* ArXiv Red */
 }
 
 .publication-content {
