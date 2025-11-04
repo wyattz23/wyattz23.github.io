@@ -177,47 +177,6 @@ banner:
   </div>
 </div>
 
-## 2021
-
-<div class="publication-entry">
-  <div class="conference-box arxiv">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">Counting ability of large language models and impact of tokenization</div>
-    <div class="authors"><strong>Xiang Zhang</strong>, Juntai Cao, Chenyu You</div>
-    <div class="venue">ArXiv, 2021</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:ZeXyd9-uunAC">PDF</a>
-    </div>
-  </div>
-</div>
-
-## 2020
-
-<div class="publication-entry">
-  <div class="conference-box arxiv">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs</div>
-    <div class="authors">Zhilin Zhang*, <strong>Xiang Zhang</strong>*, Jiaqi Wei, Yiwei Xu, Chenyu You</div>
-    <div class="venue">ArXiv, 2020</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:hC7cP41nSMkC">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box arxiv">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery</div>
-    <div class="authors">Jiaqi Wei*, Yuejin Yang*, <strong>Xiang Zhang</strong>*, Yuhan Chen*, Xiang Zhuang*, Zhangyang Gao*, Dongzhan Zhou, Guangshuai Wang, Zhiqiang Gao, Juntai Cao, Zijie Qiu, Xuming He, Qiang Zhang, Chenyu You, Shuangjia Zheng, Ning Ding, Wanli Ouyang, Nanqing Dong, Yu Cheng, Siqi Sun, Lei Bai, Bowen Zhou</div>
-    <div class="venue">ArXiv, 2020</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:IWHjjKOFINEC">PDF</a>
-    </div>
-  </div>
-</div>
-
-## 2019
 
 
 
