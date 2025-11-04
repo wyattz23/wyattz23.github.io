@@ -341,6 +341,10 @@ h1 {
   line-height: 1.4;
 }
 
+.publication-content .authors strong {
+  font-size: 1.3em;
+}
+
 .publication-content .venue {
   color: #95a5a6;
   font-style: italic;
