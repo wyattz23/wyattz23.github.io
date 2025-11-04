@@ -154,25 +154,25 @@ banner:
 ## 2022
 
 <div class="publication-entry">
-  <div class="conference-box neurips">NeurIPS</div>
+  <div class="conference-box emnlp">EMNLP</div>
   <div class="publication-content">
-    <div class="title">A character-level length-control algorithm for non-autoregressive sentence summarization</div>
-    <div class="authors">Puyuan Liu, <strong>Xiang Zhang</strong>, Lili Mou</div>
-    <div class="venue">Advances in Neural Information Processing Systems (NeurIPS), 2022</div>
+    <div class="title">Improving HowNet-Based Chinese Word Sense Disambiguation with Translation</div>
+    <div class="authors"><strong>Xiang Zhang</strong>, Bradley Hauer, Grzegorz Kondrak</div>
+    <div class="venue">Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:d1gkVwhDpl0C">PDF</a>
+      <a href="https://aclanthology.org/2022.findings-emnlp.331.pdf">PDF</a>
     </div>
   </div>
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box arxiv">ArXiv</div>
+  <div class="conference-box neurips">NeurIPS</div>
   <div class="publication-content">
-    <div class="title">Improving HowNet-Based Chinese Word Sense Disambiguation with Translations</div>
-    <div class="authors"><strong>Xiang Zhang</strong>, Bradley Hauer, Grzegorz Kondrak</div>
-    <div class="venue">ArXiv, 2022</div>
+    <div class="title">A Character Level Length Control Algorithm for Non-Autoregressive Sentence Summarization</div>
+    <div class="authors">Puyuan Liu, <strong>Xiang Zhang</strong>, Lili Mou</div>
+    <div class="venue">Advances in Neural Information Processing Systems (NeurIPS), 2022</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:Tyk-4Ss8FVUC">PDF</a>
+      <a href="https://arxiv.org/abs/2205.14522">PDF</a>
     </div>
   </div>
 </div>
