@@ -16,13 +16,37 @@ banner:
 ## 2025
 
 <div class="publication-entry">
-  <div class="conference-box">JOSH</div>
+  <div class="conference-box">NeurIPS</div>
   <div class="publication-content">
-    <div class="title">Multiprocessor scheduling with testing: improved online algorithms and numerical experiments</div>
-    <div class="authors">Mingyang Gong, Jing Fan, Guohui Lin, Bing Su, Zihan Su, <strong>Xiang Zhang</strong></div>
-    <div class="venue">Journal of Scheduling, 2025</div>
+    <div class="title">Bidirectional Representations Augmented Autoregressive Biological Sequence Generation</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Jiaqi Wei*, Zijie Qiu, Sheng Xu, Zhi Jin, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
+    <div class="venue">Advances in Neural Information Processing Systems (NeurIPS), 2025</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:7PzlFSSx8tAC">PDF</a>
+      <a href="https://arxiv.org/pdf/2510.08169">PDF</a> | <a href="https://github.com/BEAM-Labs/denovo">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">NeurIPS</div>
+  <div class="publication-content">
+    <div class="title">Retrieval is not Enough: Enhancing RAG Reasoning through Test-Time Critique and Optimization</div>
+    <div class="authors">Jiaqi Wei*, Hao Zhou*, <strong>Xiang Zhang</strong>*, Zijie Qiu, Sheng Xu, Zhi Jin, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
+    <div class="venue">Advances in Neural Information Processing Systems (NeurIPS), 2025</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2504.14858">PDF</a> | <a href="https://github.com/upup-wei/RAG-ReasonAlignment">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">ACL</div>
+  <div class="publication-content">
+    <div class="title">A Complexity Analysis of Prompt Search Space in LLMs</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Juntai Cao*, Jiaqi Wei, Chengyu You, Dujian Ding</div>
+    <div class="venue">Association for Computational Linguistics (ACL), 2025</div>
+    <div class="links">
+      <a href="https://aclanthology.org/2025.acl-long.1562/">PDF</a>
     </div>
   </div>
 </div>
@@ -30,37 +54,59 @@ banner:
 <div class="publication-entry">
   <div class="conference-box">ICML</div>
   <div class="publication-content">
-    <div class="title">Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing</div>
-    <div class="authors"><strong>Xiang Zhang</strong>*, Jiaqi Wei*, Zijie Qiu*, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
-    <div class="venue">ArXiv Preprint</div>
+    <div class="title">Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Sequencing</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Jiaqi Wei*, Sheng Xu, Zijie Qiu, Nanqing Dong, Zhiqiang Gao, Siqi Sun</div>
+    <div class="venue">International Conference on Machine Learning (ICML), 2025</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:ULOm3_A8WrAC">PDF</a>
+      <a href="https://arxiv.org/abs/2506.13485">PDF</a> | <a href="https://github.com/BEAM-Labs/denovo">Code</a>
     </div>
   </div>
 </div>
-
 
 <div class="publication-entry">
   <div class="conference-box">ICML</div>
   <div class="publication-content">
     <div class="title">Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing</div>
-    <div class="authors">Zijie Qiu*, Jiaqi Wei*, <strong>Xiang Zhang</strong>*, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun</div>
-    <div class="venue">ArXiv Preprint</div>
+    <div class="authors">Zijie Qiu*, Jiaqi Wei*, <strong>Xiang Zhang</strong>*, Sheng Xu, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun</div>
+    <div class="venue">International Conference on Machine Learning (ICML), 2025</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:MXK_kJrjxJIC">PDF</a>
+      <a href="https://arxiv.org/abs/2505.17552">PDF</a> | <a href="https://github.com/BEAM-Labs/denovo">Code</a>
     </div>
   </div>
 </div>
 
+<div class="publication-entry">
+  <div class="conference-box">EMNLP</div>
+  <div class="publication-content">
+    <div class="title">Multi2: Multi-Agent Test-Time Scalable Framework for Multi-Document Processing</div>
+    <div class="authors">Juntai Cao*, <strong>Xiang Zhang</strong>*, Raymond Li, Jiaqi Wei, Chuyuan Li, Shafiq Joty, Giuseppe Carenini</div>
+    <div class="venue">5th New Frontiers in Summarization Workshop at EMNLP (NewSumm), 2025</div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2502.20592">PDF</a>
+    </div>
+  </div>
+</div>
 
 <div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
+  <div class="conference-box">JOSH</div>
   <div class="publication-content">
-    <div class="title">MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing</div>
-    <div class="authors">A Jun*, <strong>Xiang Zhang</strong>*, Xiaofan Zhang*, Jiaqi Wei*, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo</div>
-    <div class="venue">ArXiv Preprint</div>
+    <div class="title">Multiprocessor scheduling with testing: Improved approximation algorithms and numerical experiments</div>
+    <div class="authors">Mingyang Gong*, Jing Fan*, Guohui Lin*, Bin Su*, Zihan Su*, <strong>Xiang Zhang</strong>*</div>
+    <div class="venue">Journal of Scheduling (JOSH), 2025</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:qxL8FJ1GzNcC">PDF</a>
+      <a href="https://link.springer.com/article/10.1007/s10951-025-00850-3">PDF</a>
+    </div>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="conference-box">NC</div>
+  <div class="publication-content">
+    <div class="title">π-PrimeNovo: An Accurate and Efficient Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing</div>
+    <div class="authors"><strong>Xiang Zhang</strong>*, Tianze Ling*, Zhi Jin*, Sheng Xu*, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Nanqing Dong, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan, Fuchu He, Wanli Ouyang, Cheng Chang, Siqi Sun</div>
+    <div class="venue">Nature Communications, 2025</div>
+    <div class="links">
+      <a href="https://www.nature.com/articles/s41467-024-55021-3">PDF</a> | <a href="https://github.com/PHOENIXcenter/pi-PrimeNovo">Code</a>
     </div>
   </div>
 </div>
@@ -210,69 +256,6 @@ banner:
 ## 2019
 
 
-## Preprints & Working Papers
-
-<div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs</div>
-    <div class="authors"><strong>Xiang Zhang</strong>*, Juntai Cao*, Jiaqi Wei, Chenyu You, Dujian Ding</div>
-    <div class="venue">ArXiv Preprint</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:KlAtU1dfN6UC">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">π-PrimeNovo: an accurate and efficient non-autoregressive deep learning model for de novo peptide sequencing</div>
-    <div class="authors"><strong>Xiang Zhang</strong>*, Tianze Ling*, Zhi Jin*, Sheng Xu*, Zhiqiang Gao, Boyan Sun, Zijie Qiu, Jiaqi Wei, Nanqing Dong, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks VS Lakshmanan, Fuchu He, Wanli Ouyang, Cheng Chang, Siqi Sun</div>
-    <div class="venue">ArXiv Preprint</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:ufrVoPGSRksC">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">AlignRAG: Leveraging Critique Learning for Evidence-Sensitive Retrieval-Augmented Reasoning</div>
-    <div class="authors">Jiaqi Wei, Hao Zhou, <strong>Xiang Zhang</strong>, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun</div>
-    <div class="venue">ArXiv Preprint</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:4DMP91E08xMC">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">Multi2: Multi-Agent Test-Time Scalable Framework for Multi-Document Processing</div>
-    <div class="authors">Juntai Cao*, <strong>Xiang Zhang</strong>*, Raymond Li, Chuyuan Li, Shafiq Joty, Giuseppe Carenini</div>
-    <div class="venue">ArXiv Preprint</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:_FxGoFyzp5QC">PDF</a>
-    </div>
-  </div>
-</div>
-
-
-
-<div class="publication-entry">
-  <div class="conference-box">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits</div>
-    <div class="authors"><strong>Xiang Zhang</strong>*, Juntai Cao*, Jiaqi Wei, Yiwei Xu, Chenyu You</div>
-    <div class="venue">ArXiv Preprint</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:_kc_bZDykSQC">PDF</a>
-    </div>
-  </div>
-</div>
 
 
 
