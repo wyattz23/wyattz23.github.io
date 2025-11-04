@@ -76,7 +76,7 @@ banner:
 </div>
 
 <div class="publication-entry">
-  <div class="conference-box emnlp">EMNLP</div>
+  <div class="conference-box emnlp">NewSum</div>
   <div class="publication-content">
     <div class="title">Multi2: Multi-Agent Test-Time Scalable Framework for Multi-Document Processing</div>
     <div class="authors">Juntai Cao*, <strong>Xiang Zhang</strong>*, Raymond Li, Jiaqi Wei, Chuyuan Li, Shafiq Joty, Giuseppe Carenini</div>
@@ -114,37 +114,13 @@ banner:
 ## 2024
 
 <div class="publication-entry">
-  <div class="conference-box biorxiv">BioRxiv</div>
+  <div class="conference-box aaai">AAAI</div>
   <div class="publication-content">
     <div class="title">ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing</div>
     <div class="authors">Zhi Jin*, Sheng Xu*, <strong>Xiang Zhang</strong>*, Tianze Ling, Nanqing Dong, Wanli Ouyang, Zhiqiang Gao, Cheng Chang, Siqi Sun</div>
-    <div class="venue">BioRxiv, 2024</div>
+    <div class="venue">38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024</div>
     <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:9yKSN-GCB0IC">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box arxiv">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">Cross-Modal Consistency in Multimodal Large Language Models</div>
-    <div class="authors"><strong>Xiang Zhang</strong>*, Senyu Li*, Ning Shi, Bradley Hauer, Zijun Wu, Grzegorz Kondrak, Muhammad Abdul-Mageed, Laks VS Lakshmanan</div>
-    <div class="venue">ArXiv, 2024</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:WF5omc3nYNoC">PDF</a>
-    </div>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="conference-box arxiv">ArXiv</div>
-  <div class="publication-content">
-    <div class="title">Autoregressive + Chain of Thought = Recurrent: Recurrence's Role in Language Models' Computability and a Revisit of Recurrent Transformer</div>
-    <div class="authors"><strong>Xiang Zhang</strong>, Muhammad Abdul-Mageed, Laks V.S. Lakshmanan</div>
-    <div class="venue">ArXiv, 2024</div>
-    <div class="links">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rHLK5ggAAAAJ&citation_for_view=rHLK5ggAAAAJ:W7OEmFMy1HYC">PDF</a>
+      <a href="https://arxiv.org/abs/2312.11584">PDF</a> | <a href="https://github.com/BEAM-Labs/ContraNovo">Code</a>
     </div>
   </div>
 </div>
@@ -351,6 +327,10 @@ h1 {
 
 .conference-box.arxiv {
   background-color: #B23121; /* ArXiv Red */
+}
+
+.conference-box.aaai {
+  background-color: #00BCD4; /* Cyan/Teal */
 }
 
 .publication-content {
