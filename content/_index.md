@@ -53,7 +53,9 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
+        <div style="font-size: 0.85em; line-height: 1.4;">
         2025 Jan: My paper on peptide sequencing with Non-autoregressive Transformer got accepted to Nature Communications
+        </div>
     design:
       columns: '1'
 ---
