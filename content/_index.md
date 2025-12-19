@@ -27,7 +27,7 @@ sections:
       items:
         - statistic: "30+"
           description: |
-            Publications
+            Manusripts
         - statistic: "450+"
           description: |
             Citations
