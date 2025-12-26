@@ -59,7 +59,7 @@ education:
       I am researching on computability of Transformer architecture and efficient long context processing with new attention design; AI4Science, specifically with focus in protein sequences.
     button:
       text: 'Read Thesis: Language Modeling Techniques for Biological Sequence Processing'
-      url: 'https://example.com'
+      url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0450940'
   - area: Bachelor of Computer Science
     institution: University of Alberta
     date_start: 2019-09-01
