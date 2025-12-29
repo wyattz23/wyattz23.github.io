@@ -28,7 +28,7 @@ sections:
         - statistic: "30+"
           description: |
             Manuscripts
-        - statistic: "460+"
+        - statistic: "470+"
           description: |
             Citations
         - statistic: "11"
