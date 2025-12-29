@@ -82,4 +82,75 @@ sections:
         </div>
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: Visitor Map
+      subtitle: ''
+      text: |-
+        <div id="visitor-map-container" style="width: 100%; height: 400px; margin: 20px 0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+          <div id="visitor-map" style="width: 100%; height: 100%;"></div>
+        </div>
+        <p style="text-align: center; font-size: 0.85em; color: #666; margin-top: 10px;">See where visitors are coming from around the world 🌍</p>
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+        <script>
+          // Initialize map
+          var map = L.map('visitor-map').setView([20, 0], 2);
+          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+          }).addTo(map);
+          
+          // Track current visitor
+          fetch('https://ipapi.co/json/')
+            .then(response => response.json())
+            .then(data => {
+              if (data.latitude && data.longitude) {
+                var marker = L.marker([data.latitude, data.longitude]).addTo(map);
+                marker.bindPopup('<b>Visitor from ' + (data.city || 'Unknown') + ', ' + (data.country_name || 'Unknown') + '</b><br>IP: ' + data.ip).openPopup();
+                map.setView([data.latitude, data.longitude], 3);
+              }
+            })
+            .catch(error => {
+              console.log('Error fetching location:', error);
+            });
+          
+          // Load stored visitor locations (from localStorage for demo)
+          // In production, you'd fetch this from a backend service
+          var storedVisitors = JSON.parse(localStorage.getItem('visitorLocations') || '[]');
+          storedVisitors.forEach(function(visitor) {
+            if (visitor.lat && visitor.lng) {
+              L.marker([visitor.lat, visitor.lng]).addTo(map)
+                .bindPopup('<b>Previous visitor</b><br>From: ' + (visitor.city || 'Unknown'));
+            }
+          });
+          
+          // Store current visitor location
+          fetch('https://ipapi.co/json/')
+            .then(response => response.json())
+            .then(data => {
+              if (data.latitude && data.longitude) {
+                var visitors = JSON.parse(localStorage.getItem('visitorLocations') || '[]');
+                var newVisitor = {
+                  lat: data.latitude,
+                  lng: data.longitude,
+                  city: data.city,
+                  country: data.country_name,
+                  ip: data.ip,
+                  timestamp: new Date().toISOString()
+                };
+                // Add if not already exists (simple check)
+                var exists = visitors.some(v => v.ip === newVisitor.ip);
+                if (!exists) {
+                  visitors.push(newVisitor);
+                  // Keep only last 50 visitors
+                  if (visitors.length > 50) {
+                    visitors = visitors.slice(-50);
+                  }
+                  localStorage.setItem('visitorLocations', JSON.stringify(visitors));
+                }
+              }
+            });
+        </script>
+    design:
+      columns: '1'
 ---
