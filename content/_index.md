@@ -59,9 +59,14 @@ sections:
             <span style="color: #555;">My paper on peptide sequencing with Non-autoregressive Transformer got accepted to <em style="font-weight: 700; color: #2c3e50; font-style: italic; font-size: 1.05em;">Nature Communications</em></span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
-          <div>
+          <div style="margin-bottom: 12px;">
             <span style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 March:</span>
             <span style="color: #555;">1 paper got accepted to <strong style="font-weight: 700; color: #2c3e50; font-size: 1.05em;">ACL</strong> main conference</span>
+            <span style="margin-left: 6px;">🎉</span>
+          </div>
+          <div>
+            <span style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 April:</span>
+            <span style="color: #555;">2 papers were accepted to <strong style="font-weight: 700; color: #2c3e50; font-size: 1.05em;">ICML</strong></span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
         </div>
