@@ -55,7 +55,7 @@ sections:
       text: |-
         <div style="font-size: 0.85em; line-height: 1.6; color: #333;">
           <span style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Jan:</span>
-          <span style="color: #555;">My paper on peptide sequencing with Non-autoregressive Transformer got accepted to Nature Communications</span>
+          <span style="color: #555;">My paper on peptide sequencing with Non-autoregressive Transformer got accepted to <em style="font-weight: 700; color: #2c3e50; font-style: italic; font-size: 1.05em;">Nature Communications</em></span>
           <span style="margin-left: 6px;">🎉</span>
         </div>
     design:
