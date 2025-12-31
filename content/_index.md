@@ -83,19 +83,19 @@ sections:
         <style>
           /* Light mode - black text (default) */
           .news-container {
-            color: #000000 !important;
+            color: #000000;
           }
           .news-content {
-            color: #000000 !important;
+            color: #000000;
           }
           .news-highlight {
             font-weight: 700;
-            color: #e74c3c !important;
+            color: #e74c3c;
             font-size: 1.05em;
           }
           .news-journal {
             font-weight: 700;
-            color: #27ae60 !important;
+            color: #27ae60;
             font-style: italic;
             font-size: 1.05em;
           }
@@ -113,42 +113,6 @@ sections:
             .news-journal {
               color: #27ae60 !important;
             }
-          }
-          /* Dark mode support - white text */
-          @media (prefers-color-scheme: dark) {
-            .news-container {
-              color: #ffffff !important;
-            }
-            .news-content {
-              color: #ffffff !important;
-            }
-            .news-highlight {
-              color: #ff6b6b !important;
-            }
-            .news-journal {
-              color: #51cf66 !important;
-            }
-          }
-          /* Hugo Blox dark mode class support - white text */
-          .dark .news-container,
-          [data-theme="dark"] .news-container,
-          html.dark .news-container {
-            color: #ffffff !important;
-          }
-          .dark .news-content,
-          [data-theme="dark"] .news-content,
-          html.dark .news-content {
-            color: #ffffff !important;
-          }
-          .dark .news-highlight,
-          [data-theme="dark"] .news-highlight,
-          html.dark .news-highlight {
-            color: #ff6b6b !important;
-          }
-          .dark .news-journal,
-          [data-theme="dark"] .news-journal,
-          html.dark .news-journal {
-            color: #51cf66 !important;
           }
           /* Ensure light mode when not in dark mode */
           html:not(.dark) .news-container,
@@ -170,6 +134,50 @@ sections:
           html:not([data-theme="dark"]) .news-journal,
           body:not(.dark) .news-journal {
             color: #27ae60 !important;
+          }
+          /* Dark mode support - white text (MUST come last to override) */
+          @media (prefers-color-scheme: dark) {
+            .news-container {
+              color: #ffffff !important;
+            }
+            .news-content {
+              color: #ffffff !important;
+            }
+            .news-highlight {
+              color: #ff6b6b !important;
+            }
+            .news-journal {
+              color: #51cf66 !important;
+            }
+          }
+          /* Hugo Blox dark mode class support - white text (MUST come last) */
+          html.dark .news-container,
+          html[data-theme="dark"] .news-container,
+          .dark .news-container,
+          [data-theme="dark"] .news-container,
+          body.dark .news-container {
+            color: #ffffff !important;
+          }
+          html.dark .news-content,
+          html[data-theme="dark"] .news-content,
+          .dark .news-content,
+          [data-theme="dark"] .news-content,
+          body.dark .news-content {
+            color: #ffffff !important;
+          }
+          html.dark .news-highlight,
+          html[data-theme="dark"] .news-highlight,
+          .dark .news-highlight,
+          [data-theme="dark"] .news-highlight,
+          body.dark .news-highlight {
+            color: #ff6b6b !important;
+          }
+          html.dark .news-journal,
+          html[data-theme="dark"] .news-journal,
+          .dark .news-journal,
+          [data-theme="dark"] .news-journal,
+          body.dark .news-journal {
+            color: #51cf66 !important;
           }
         </style>
     design:
