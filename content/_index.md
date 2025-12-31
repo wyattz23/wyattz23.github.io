@@ -90,12 +90,12 @@ sections:
           }
           .news-highlight {
             font-weight: 700;
-            color: #000000;
+            color: #e74c3c;
             font-size: 1.05em;
           }
           .news-journal {
             font-weight: 700;
-            color: #000000;
+            color: #27ae60;
             font-style: italic;
             font-size: 1.05em;
           }
@@ -108,10 +108,10 @@ sections:
               color: #ffffff;
             }
             .news-highlight {
-              color: #ffffff;
+              color: #ff6b6b;
             }
             .news-journal {
-              color: #ffffff;
+              color: #51cf66;
             }
           }
           /* Hugo Blox dark mode class support - white text */
@@ -125,11 +125,11 @@ sections:
           }
           .dark .news-highlight,
           [data-theme="dark"] .news-highlight {
-            color: #ffffff;
+            color: #ff6b6b;
           }
           .dark .news-journal,
           [data-theme="dark"] .news-journal {
-            color: #ffffff;
+            color: #51cf66;
           }
         </style>
     design:
