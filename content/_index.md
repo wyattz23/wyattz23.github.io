@@ -53,33 +53,84 @@ sections:
       title: Recent News
       subtitle: ''
       text: |-
-        <div style="font-size: 0.85em; line-height: 1.6; color: #333;">
+        <div class="news-container" style="font-size: 0.85em; line-height: 1.6;">
           <div style="margin-bottom: 12px;">
-            <span style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Sept:</span>
-            <span style="color: #555;">2 papers were accepted to <strong style="font-weight: 700; color: #2c3e50; font-size: 1.05em;">NeurIPS</strong></span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Sept:</span>
+            <span class="news-content">2 papers were accepted to <strong class="news-highlight">NeurIPS</strong></span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
           <div style="margin-bottom: 12px;">
-            <span style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 July:</span>
-            <span style="color: #555;">One paper got accepted in <em style="font-weight: 700; color: #2c3e50; font-style: italic; font-size: 1.05em;">Journal of Scheduling</em>, after 3 years of reviewing process</span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 July:</span>
+            <span class="news-content">One paper got accepted in <em class="news-journal">Journal of Scheduling</em>, after 3 years of reviewing process</span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
           <div style="margin-bottom: 12px;">
-            <span style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 April:</span>
-            <span style="color: #555;">2 papers were accepted to <strong style="font-weight: 700; color: #2c3e50; font-size: 1.05em;">ICML</strong></span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 April:</span>
+            <span class="news-content">2 papers were accepted to <strong class="news-highlight">ICML</strong></span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
           <div style="margin-bottom: 12px;">
-            <span style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 March:</span>
-            <span style="color: #555;">1 paper got accepted to <strong style="font-weight: 700; color: #2c3e50; font-size: 1.05em;">ACL</strong> main conference</span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 March:</span>
+            <span class="news-content">1 paper got accepted to <strong class="news-highlight">ACL</strong> main conference</span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
           <div>
-            <span style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Jan:</span>
-            <span style="color: #555;">My paper on peptide sequencing with Non-autoregressive Transformer got accepted to <em style="font-weight: 700; color: #2c3e50; font-style: italic; font-size: 1.05em;">Nature Communications</em></span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Jan:</span>
+            <span class="news-content">My paper on peptide sequencing with Non-autoregressive Transformer got accepted to <em class="news-journal">Nature Communications</em></span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
         </div>
+        <style>
+          .news-container {
+            color: #333;
+          }
+          .news-content {
+            color: #555;
+          }
+          .news-highlight {
+            font-weight: 700;
+            color: #2c3e50;
+            font-size: 1.05em;
+          }
+          .news-journal {
+            font-weight: 700;
+            color: #2c3e50;
+            font-style: italic;
+            font-size: 1.05em;
+          }
+          /* Dark mode support */
+          @media (prefers-color-scheme: dark) {
+            .news-container {
+              color: #e0e0e0;
+            }
+            .news-content {
+              color: #b0b0b0;
+            }
+            .news-highlight {
+              color: #64b5f6;
+            }
+            .news-journal {
+              color: #81c784;
+            }
+          }
+          /* Hugo Blox dark mode class support */
+          .dark .news-container,
+          [data-theme="dark"] .news-container {
+            color: #e0e0e0;
+          }
+          .dark .news-content,
+          [data-theme="dark"] .news-content {
+            color: #b0b0b0;
+          }
+          .dark .news-highlight,
+          [data-theme="dark"] .news-highlight {
+            color: #64b5f6;
+          }
+          .dark .news-journal,
+          [data-theme="dark"] .news-journal {
+            color: #81c784;
+          }
+        </style>
     design:
       columns: '1'
 ---
