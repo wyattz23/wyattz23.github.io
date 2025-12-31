@@ -81,54 +81,55 @@ sections:
           </div>
         </div>
         <style>
+          /* Light mode - black text */
           .news-container {
-            color: #333;
+            color: #000000;
           }
           .news-content {
-            color: #555;
+            color: #000000;
           }
           .news-highlight {
             font-weight: 700;
-            color: #2c3e50;
+            color: #000000;
             font-size: 1.05em;
           }
           .news-journal {
             font-weight: 700;
-            color: #2c3e50;
+            color: #000000;
             font-style: italic;
             font-size: 1.05em;
           }
-          /* Dark mode support */
+          /* Dark mode support - white text */
           @media (prefers-color-scheme: dark) {
             .news-container {
-              color: #e0e0e0;
+              color: #ffffff;
             }
             .news-content {
-              color: #b0b0b0;
+              color: #ffffff;
             }
             .news-highlight {
-              color: #64b5f6;
+              color: #ffffff;
             }
             .news-journal {
-              color: #81c784;
+              color: #ffffff;
             }
           }
-          /* Hugo Blox dark mode class support */
+          /* Hugo Blox dark mode class support - white text */
           .dark .news-container,
           [data-theme="dark"] .news-container {
-            color: #e0e0e0;
+            color: #ffffff;
           }
           .dark .news-content,
           [data-theme="dark"] .news-content {
-            color: #b0b0b0;
+            color: #ffffff;
           }
           .dark .news-highlight,
           [data-theme="dark"] .news-highlight {
-            color: #64b5f6;
+            color: #ffffff;
           }
           .dark .news-journal,
           [data-theme="dark"] .news-journal {
-            color: #81c784;
+            color: #ffffff;
           }
         </style>
     design:
