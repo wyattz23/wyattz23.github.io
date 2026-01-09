@@ -182,10 +182,4 @@ sections:
         </style>
     design:
       columns: '1'
-  - block: markdown
-    content:
-      text: |-
-        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=jSl0Ro6zdIyMidNjoD0lgUj5yZyjvlw0oWxf-PKjMlE&cl=ffffff&w=a"></script>
-    design:
-      columns: '1'
 ---
