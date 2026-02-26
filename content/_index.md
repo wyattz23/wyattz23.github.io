@@ -52,30 +52,29 @@ sections:
         Previously, my work centered on Natural Language Processing (NLP), and I am grateful for the early research guidance I received from Professors [Lili Mou](https://lili-mou.github.io) and [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/).
 
         <style>
-          /* Professional blue for links */
-          .markdown-block a {
+          /* This targets all links inside this specific block */
+          a {
             color: #3498db !important;
-            text-decoration: none;
+            text-decoration: none !important;
             font-weight: 500;
-            transition: color 0.2s ease-in-out;
           }
 
-          /* Darker blue/underline on hover */
-          .markdown-block a:hover {
+          a:hover {
             color: #2980b9 !important;
-            text-decoration: underline;
+            text-decoration: underline !important;
           }
 
-          /* Adjust color for Dark Mode for better contrast */
+          /* Dark mode override */
           @media (prefers-color-scheme: dark) {
-            .markdown-block a {
+            a {
               color: #5dade2 !important;
             }
           }
-          
-          /* Hugo Blox dark mode support */
-          .dark .markdown-block a,
-          [data-theme="dark"] .markdown-block a {
+
+          /* Hugo Blox / Wowchemy specific dark mode classes */
+          .dark a,
+          [data-theme="dark"] a,
+          body.dark a {
             color: #5dade2 !important;
           }
         </style>
