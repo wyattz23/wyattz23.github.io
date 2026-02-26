@@ -45,36 +45,40 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
+        <div id="welcome-section">
+
         I am a Master’s student at the **University of British Columbia (UBC)**, where my research focuses on the intersection of **AI for Science (AI4Science)** and **Large Language Models (LLMs)**. 
 
         I am fortunate to be advised by Professors [Siqi Sun](https://intersun.github.io), [Chenyu You](https://chenyuyou.me/index.html), and [Wanli Ouyang](https://wlouyang.github.io). 
 
         Previously, my work centered on Natural Language Processing (NLP), and I am grateful for the early research guidance I received from Professors [Lili Mou](https://lili-mou.github.io) and [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/).
 
+        </div>
+
         <style>
-          /* This targets all links inside this specific block */
-          a {
+          /* This ONLY targets links inside the welcome-section div */
+          #welcome-section a {
             color: #3498db !important;
             text-decoration: none !important;
             font-weight: 500;
           }
 
-          a:hover {
+          #welcome-section a:hover {
             color: #2980b9 !important;
             text-decoration: underline !important;
           }
 
-          /* Dark mode override */
+          /* Dark mode specific to this section */
           @media (prefers-color-scheme: dark) {
-            a {
+            #welcome-section a {
               color: #5dade2 !important;
             }
           }
 
-          /* Hugo Blox / Wowchemy specific dark mode classes */
-          .dark a,
-          [data-theme="dark"] a,
-          body.dark a {
+          /* Theme-specific overrides */
+          .dark #welcome-section a,
+          [data-theme="dark"] #welcome-section a,
+          body.dark #welcome-section a {
             color: #5dade2 !important;
           }
         </style>
