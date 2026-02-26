@@ -50,6 +50,35 @@ sections:
         I am fortunate to be advised by Professors [Siqi Sun](https://intersun.github.io), [Chenyu You](https://chenyuyou.me/index.html), and [Wanli Ouyang](https://wlouyang.github.io). 
 
         Previously, my work centered on Natural Language Processing (NLP), and I am grateful for the early research guidance I received from Professors [Lili Mou](https://lili-mou.github.io) and [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/).
+
+        <style>
+          /* Professional blue for links */
+          .markdown-block a {
+            color: #3498db !important;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s ease-in-out;
+          }
+
+          /* Darker blue/underline on hover */
+          .markdown-block a:hover {
+            color: #2980b9 !important;
+            text-decoration: underline;
+          }
+
+          /* Adjust color for Dark Mode for better contrast */
+          @media (prefers-color-scheme: dark) {
+            .markdown-block a {
+              color: #5dade2 !important;
+            }
+          }
+          
+          /* Hugo Blox dark mode support */
+          .dark .markdown-block a,
+          [data-theme="dark"] .markdown-block a {
+            color: #5dade2 !important;
+          }
+        </style>
     design:
       columns: '1'
   - block: markdown
