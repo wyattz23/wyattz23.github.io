@@ -28,10 +28,10 @@ sections:
         - statistic: "30+"
           description: |
             Manuscripts
-        - statistic: "660+"
+        - statistic: "700+"
           description: |
             Citations
-        - statistic: "13"
+        - statistic: "14"
           description: |
             h-index
     design:
