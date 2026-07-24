@@ -91,6 +91,16 @@ sections:
       text: |-
         <div class="news-container" style="font-size: 0.85em; line-height: 1.6;">
           <div style="margin-bottom: 12px;">
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2026 Jul:</span>
+            <span class="news-content">1 paper was accepted to <strong class="news-highlight">ACM MM</strong></span>
+            <span style="margin-left: 6px;">🎉</span>
+          </div>
+          <div style="margin-bottom: 12px;">
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2026 Jun:</span>
+            <span class="news-content">My paper on scaling proteomics with deep learning was accepted to <em class="news-journal">Nature Methods</em></span>
+            <span style="margin-left: 6px;">🎉</span>
+          </div>
+          <div style="margin-bottom: 12px;">
             <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2026 May:</span>
             <span class="news-content">1 paper was accepted to <strong class="news-highlight">ICML</strong></span>
             <span style="margin-left: 6px;">🎉</span>
