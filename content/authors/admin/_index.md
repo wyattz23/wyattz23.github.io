@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: CS Graduate Student
+role: EECS Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of British Columbia
-    url: https://www.cs.ubc.ca/news/2025/02/primenovo-redefining-protein-sequencing-revolutionary-precision
+  - name: UC Berkeley
+    url: https://eecs.berkeley.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
