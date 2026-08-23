@@ -47,11 +47,9 @@ sections:
       text: |-
         <div id="welcome-section">
 
-        I am a Master’s student at the **University of British Columbia (UBC)**, where my research focuses on the intersection of **AI for Science (AI4Science)** and **Large Language Models (LLMs)**. 
+        I am currently a Ph.D. student in **EECS** at **UC Berkeley**, working with Professor [Yun S. Song](https://people.eecs.berkeley.edu/~yss/). My research focuses on **AI for Science (AI4Science)**.
 
-        I am fortunate to be advised by Professors [Siqi Sun](https://intersun.github.io), [Chenyu You](https://chenyuyou.me/index.html), and [Wanli Ouyang](https://wlouyang.github.io). 
-
-        Previously, my work centered on Natural Language Processing (NLP), and I am grateful for the early research guidance I received from Professors [Lili Mou](https://lili-mou.github.io) and [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/).
+        Previously, I was a Master’s student at the **University of British Columbia (UBC)**, advised by Professors [Siqi Sun](https://intersun.github.io), [Chenyu You](https://chenyuyou.me/index.html), and [Wanli Ouyang](https://wlouyang.github.io). I am also grateful for the early research guidance I received from Professors [Lili Mou](https://lili-mou.github.io) and [Greg Kondrak](https://webdocs.cs.ualberta.ca/~kondrak/).
 
         </div>
 
