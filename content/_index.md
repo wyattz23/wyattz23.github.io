@@ -89,6 +89,11 @@ sections:
       text: |-
         <div class="news-container" style="font-size: 0.85em; line-height: 1.6;">
           <div style="margin-bottom: 12px;">
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2026 Sep 17:</span>
+            <span class="news-content">1 paper was accepted to <strong class="news-highlight">DAI</strong> (Oral)</span>
+            <span style="margin-left: 6px;">🎉</span>
+          </div>
+          <div style="margin-bottom: 12px;">
             <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2026 Sep:</span>
             <span class="news-content">1 paper was accepted to <strong class="news-highlight">IJCAI</strong></span>
             <span style="margin-left: 6px;">🎉</span>
