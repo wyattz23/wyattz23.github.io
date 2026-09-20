@@ -49,7 +49,7 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
-  - area: Ph.D. in Electrical Engineering and Computer Sciences
+  - area: Ph.D. in Computer Science
     institution: UC Berkeley
     date_start: 2026-08-01
     summary: |
@@ -63,7 +63,7 @@ education:
     button:
       text: 'Read Thesis: Language Modeling Techniques for Biological Sequence Processing'
       url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0450940'
-  - area: Bachelor of Computer Science
+  - area: Bachelor of Science in Computer Science
     institution: University of Alberta
     date_start: 2019-09-01
     date_end: 2023-06-14
@@ -115,6 +115,21 @@ work:
     summary: |
       Internship
       - TableGPT pretraining, NLU
+  - position: Teaching Assistant
+    company_name: University of Alberta
+    company_url: 'https://www.ualberta.ca/'
+    date_start: 2020-05-01
+    date_end: 2023-06-01
+    summary: |
+      Contract Part-time · Alberta, Canada
+      Taught 12 undergrad courses over 3 years
+  - position: Research Assistant
+    company_name: University of Alberta
+    company_url: 'https://www.ualberta.ca/'
+    date_start: 2021-04-01
+    date_end: 2023-04-01
+    summary: |
+      On-site
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
