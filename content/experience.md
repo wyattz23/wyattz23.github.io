@@ -10,10 +10,6 @@ design:
 
 # Page sections
 sections:
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
   - block: resume-experience
     content:
       username: admin

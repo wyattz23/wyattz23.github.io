@@ -49,12 +49,17 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
+  - area: Ph.D. in Electrical Engineering and Computer Sciences
+    institution: UC Berkeley
+    date_start: 2026-08-01
+    summary: |
+      Research in AI for Science (AI4Science), advised by Professor Yun S. Song.
   - area: Master of Science in Computer Science
     institution: University of British Columbia
     date_start: 2023-09-01
-    date_end: 2025-06-01
+    date_end: 2026-05-01
     summary: |
-      I am researching on computability of Transformer architecture and efficient long context processing with new attention design; AI4Science, specifically with focus in protein sequences.
+      Researched computability of Transformer architecture and efficient long context processing with new attention design; AI4Science, specifically with focus in protein sequences.
     button:
       text: 'Read Thesis: Language Modeling Techniques for Biological Sequence Processing'
       url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0450940'
@@ -73,26 +78,43 @@ education:
       GPA: 3.96/4.0
       Graduated second degree in one year, with distinction
 work:
-  - position: Research Scientist Intern
-    company_name: PatSnap
+  - position: Graduate Student Researcher
+    company_name: UC Berkeley College of Engineering
+    company_url: 'https://engineering.berkeley.edu/'
+    date_start: 2026-08-01
+    summary: |
+      Berkeley, California · On-site
+  - position: Senior ML Scientist
+    company_name: Vanguard
+    company_url: 'https://www.vanguard.com/'
+    date_start: 2026-06-01
+    date_end: 2026-08-01
+    summary: |
+      Toronto, Ontario · On-site
+      - OPD, RL, Alignment
+  - position: Machine Learning Researcher
+    company_name: IntelliGen AI
+    company_url: 'https://intfold.com'
+    date_start: 2024-08-01
+    date_end: 2026-05-01
+    summary: |
+      Internship · Hybrid
+      - Protein LM, Folding, genomic LM
+  - position: Teaching Assistant
+    company_name: The University of British Columbia
+    company_url: 'https://www.cs.ubc.ca/'
+    date_start: 2023-09-01
+    date_end: 2025-12-01
+    summary: |
+      GTA for CPSC 110, 221, 322, 416, 121
+  - position: Applied Scientist
+    company_name: Patsnap
     company_url: 'https://www.patsnap.com/'
-    #company_logo: ''
-    date_start: 2024-04-30
+    date_start: 2024-05-01
     date_end: 2024-09-01
     summary: |
-      Responsibilities include:
-      - Building LLMs for Table understanding and reasoning
-  # - position: Backend Software Engineer
-  #   company_name: X
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Migrated infrastructure to a new data center
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Internship
+      - TableGPT pretraining, NLU
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -127,16 +149,6 @@ skills:
         description: ''
         percent: 66
         icon: camera
-
-languages:
-  - name: English
-    percent: 95
-  - name: Chinese
-    percent: 95
-  - name: French
-    percent: 3
-  - name: Japanese
-    percent: 2
 
 # Awards.
 #   Add/remove as many awards below as you like.
