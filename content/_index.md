@@ -124,22 +124,22 @@ sections:
             <span style="margin-left: 6px;">🎉</span>
           </div>
           <div style="margin-bottom: 12px;">
-            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Sept:</span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Sep:</span>
             <span class="news-content">2 papers were accepted to <strong class="news-highlight">NeurIPS</strong></span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
           <div style="margin-bottom: 12px;">
-            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 July:</span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Jul:</span>
             <span class="news-content">One paper got accepted in <em class="news-journal">Journal of Scheduling</em>, after 3 years of reviewing process</span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
           <div style="margin-bottom: 12px;">
-            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 April:</span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Apr:</span>
             <span class="news-content">2 papers were accepted to <strong class="news-highlight">ICML</strong></span>
             <span style="margin-left: 6px;">🎉</span>
           </div>
           <div style="margin-bottom: 12px;">
-            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 March:</span>
+            <span class="news-date" style="font-weight: 600; color: #3498db; font-size: 0.95em; margin-right: 8px;">2025 Mar:</span>
             <span class="news-content">1 paper got accepted to <strong class="news-highlight">ACL</strong> main conference</span>
             <span style="margin-left: 6px;">🎉</span>
           </div>

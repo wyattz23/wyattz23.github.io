@@ -163,7 +163,17 @@ skills:
       - name: Quant Trading
         description: ''
         percent: 66
-        icon: camera
+        icon: chart-bar
+
+awards:
+  - title: Stanford Graduate Fellowship
+    date: '2026-01-01'
+    awarder: Stanford University
+    summary: |
+      3-year fellowship, $60K/year. Awarded to the top 1% of candidates.
+  - title: UBC International Student Award
+    date: '2023-09-01'
+    awarder: The University of British Columbia
 
 # Awards.
 #   Add/remove as many awards below as you like.
